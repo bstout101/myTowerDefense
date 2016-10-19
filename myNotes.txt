@@ -1,0 +1,21 @@
+villain mission - kill defenders
+
+on instantiation 
+
+if gameOver != true
+if tag  defender && tag player exists set target to closest 
+if tag defender == null set target to player 
+
+if in range attack
+
+between waves player recieves reinforcements
+
+-------------------
+
+tell what is static
+select object and set to navigation static
+
+
+
+public transform 
+
